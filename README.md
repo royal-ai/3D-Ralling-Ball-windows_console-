@@ -27,6 +27,6 @@ Cancel changes## 游戏简介
 ![image](https://user-images.githubusercontent.com/47621594/111097223-1504b100-857c-11eb-94fe-f9abe0e643ed.png)
 
 
-游戏使用的图形库和数学库借鉴了此开源项目：https://github.com/CHINA-JIGE/Shoot-The-Chicken-3D
+游戏使用的图形库和数学库借鉴了这些：https://github.com/CHINA-JIGE/
 该游戏的OpenGL实现版如下：https://github.com/royal-ai/3D-parkour
 喜欢制作游戏的可以同学可以挑战一下哦!
